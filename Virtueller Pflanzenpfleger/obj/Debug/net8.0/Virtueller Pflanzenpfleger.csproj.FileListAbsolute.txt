@@ -1,0 +1,14 @@
+C:\Users\BraunMartin\Desktop\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\bin\Debug\net8.0\Virtueller Pflanzenpfleger.exe
+C:\Users\BraunMartin\Desktop\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\bin\Debug\net8.0\Virtueller Pflanzenpfleger.deps.json
+C:\Users\BraunMartin\Desktop\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\bin\Debug\net8.0\Virtueller Pflanzenpfleger.runtimeconfig.json
+C:\Users\BraunMartin\Desktop\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\bin\Debug\net8.0\Virtueller Pflanzenpfleger.dll
+C:\Users\BraunMartin\Desktop\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\bin\Debug\net8.0\Virtueller Pflanzenpfleger.pdb
+C:\Users\BraunMartin\Desktop\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\obj\Debug\net8.0\Virtueller Pflanzenpfleger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BraunMartin\Desktop\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\obj\Debug\net8.0\Virtueller Pflanzenpfleger.AssemblyInfoInputs.cache
+C:\Users\BraunMartin\Desktop\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\obj\Debug\net8.0\Virtueller Pflanzenpfleger.AssemblyInfo.cs
+C:\Users\BraunMartin\Desktop\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\obj\Debug\net8.0\Virtueller Pflanzenpfleger.csproj.CoreCompileInputs.cache
+C:\Users\BraunMartin\Desktop\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\obj\Debug\net8.0\Virtueller Pflanzenpfleger.dll
+C:\Users\BraunMartin\Desktop\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\obj\Debug\net8.0\refint\Virtueller Pflanzenpfleger.dll
+C:\Users\BraunMartin\Desktop\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\obj\Debug\net8.0\Virtueller Pflanzenpfleger.pdb
+C:\Users\BraunMartin\Desktop\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\obj\Debug\net8.0\Virtueller Pflanzenpfleger.genruntimeconfig.cache
+C:\Users\BraunMartin\Desktop\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\Virtueller Pflanzenpfleger\obj\Debug\net8.0\ref\Virtueller Pflanzenpfleger.dll
